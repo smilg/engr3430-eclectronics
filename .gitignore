@@ -1,1 +1,15 @@
+# tex
 _minted*/
+svg-inkscape/
+*.synctex.gz
+
+# kicad
+fp-info-cache
+*-backups/
+
+#LTspice
+*.emf
+*.log
+*.net
+*.op.raw
+*.plt
